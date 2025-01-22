@@ -13,4 +13,4 @@
 **MENTOR NAME**:  NEELA SANTHOSH
 
 # DESCRIPTION
-This project involves designing a microcontroller-based system using an Arduino Uno to perform two main functions: count button presses and measure temperature using a DHT11 sensor. The results are displayed on a 16x2 LCD screen via the I2C interface. This system is highly versatile, combining basic input counting with real-time environmental data monitoring.
+This project involves designing a microcontroller-based system using an Arduino Uno to perform two main functions: count button presses and measure temperature using a DHT11 sensor. The results are displayed on a serial monitor via the I2C interface. This system is highly versatile, combining basic input counting with real-time environmental data monitoring.
